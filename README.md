@@ -3,3 +3,4 @@
 
 -Oriented Programming (OOP) principles to structure code effectively. 
 -Gained hands-on experience in handling real-time transactions securely and efficiently. 
+-SQL Query
